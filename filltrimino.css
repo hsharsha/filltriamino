@@ -1,0 +1,13 @@
+#chessBoard{
+    display: inline-block;
+    border: 2px outset lightGray;
+}
+
+#chessBoard div div{
+    display: inline-block;
+    width: 32px;
+    height: 32px;
+    border: 2px solid black;
+    padding: 2px;
+    text-align: center;
+}
